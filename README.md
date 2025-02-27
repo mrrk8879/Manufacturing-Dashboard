@@ -44,7 +44,7 @@ Several derived columns were created to enhance analysis:
 ## Dashboards
 
 ### Employee Dashboard
-(https://drive.google.com/file/d/105LV0ycyxHVCJ7toeASrmDSRTKdQCxMq/view?usp=drive_link)
+https://drive.google.com/file/d/105LV0ycyxHVCJ7toeASrmDSRTKdQCxMq/view?usp=drive_link
 
 **Key Metrics:**
 - Total Employees: 775
@@ -71,7 +71,7 @@ Several derived columns were created to enhance analysis:
 - Advanced slicers for country, department, and product filters
 
 ### Production Dashboard
-(https://drive.google.com/file/d/104r8jmolG3gjs6hTgkTlJ550hjc78Rzc/view?usp=sharing)
+https://drive.google.com/file/d/104r8jmolG3gjs6hTgkTlJ550hjc78Rzc/view?usp=sharing
 
 **Key Metrics:**
 - Total Quantity Produced: 538K units
