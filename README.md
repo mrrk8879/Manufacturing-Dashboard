@@ -138,11 +138,11 @@ Potential enhancements for future iterations:
 - Excel (for initial data preprocessing)
 
 ## Author
-Team leader - Mohd Rihan Khan
-Member 1 - Mokhit Pathan
-Member 2 - Sanjay Dalawai
-Member 3 - Yogesh Kumar Saini
-Member 4 - Abhijit Kumar
+- Team leader - Mohd Rihan Khan
+- Member 1 - Mokhit Pathan
+- Member 2 - Sanjay Dalawai
+- Member 3 - Yogesh Kumar Saini
+- Member 4 - Abhijit Kumar
 
 ## Last Updated
 February 27, 2025
